@@ -47,3 +47,6 @@ Real-time PID control loop design and tuning for both stroke and load control mo
 Multi-signal DAQ integration (dual LVDT, load cell, 4-channel thermocouple) with hardware interlock and safety-trip logic
 Waveform/function-generator engine supporting sine, square, triangular, sawtooth, and chained programmable test blocks
 End-to-end software: login/security, test-case management, live monitoring dashboards, and automated report generation pushed to SQL and exported to Word
+
+**Linkedin**
+www.linkedin.com/in/sarita-bhat-b2a85b14Van
